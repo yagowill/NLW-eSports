@@ -54,7 +54,7 @@ export function DuoMatch({discord, onClose, ...rest}: Props) {
                 />
 
                 <Text style={styles.label}>
-                    Adicoine no Discord
+                    Adicione no Discord
                 </Text>
 
                 <TouchableOpacity
